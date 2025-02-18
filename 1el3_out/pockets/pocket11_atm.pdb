@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0688
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 4.0227
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6813
+HEADER 5  - Mean B-factor of pocket residues  : 0.1584
+HEADER 6  - Hydrophobicity Score              : 34.1111
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 373.6112
+HEADER 10 - Pocket volume (convex hull)       : 17.8002
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1632  CG2 VAL A 205      10.750  11.898  26.857  0.00  0.00           C 0
+ATOM   1615   CA GLY A 203       9.985  17.035  22.748  0.00  0.00           C 0
+ATOM   1616    C GLY A 203       9.786  15.534  22.752  0.00  0.00           C 0
+ATOM   1617    O GLY A 203       8.875  15.001  23.386  0.63  6.43           O 0
+ATOM     42    O LEU A   5       8.318  13.689  29.326  0.00  0.00           O 0
+ATOM   1593    O GLN A 200      13.483  18.133  22.744  0.24  8.57           O 0
+ATOM   1621    O ILE A 204      12.766  13.082  22.881  0.77  1.07           O 0
+ATOM   1620    C ILE A 204      11.577  12.763  22.929  0.00  0.00           C 0
+ATOM   2020    O ARG A 255      20.030  13.376  28.049  0.74  2.14           O 0
+ATOM   2034  OD1 ASN A 256      18.443  15.837  31.380  0.63  9.64           O 0
+ATOM   2019    C ARG A 255      20.518  13.057  29.135  0.00  0.00           C 0
+ATOM   2011    O GLN A 254      22.716  14.132  31.707  0.00  0.00           O 0
+ATOM   2018   CA ARG A 255      22.021  12.913  29.340  0.00  0.00           C 0
+ATOM   1591   CA GLN A 200      14.940  16.241  22.494  0.00  0.00           C 0
+ATOM   1595   CG GLN A 200      16.421  14.988  24.104  0.00  0.00           C 0
+ATOM   1594   CB GLN A 200      16.168  16.329  23.407  0.00  0.00           C 0
+ATOM   1627   CA VAL A 205      12.046  11.284  24.797  0.00  0.00           C 0
+ATOM   2031    O ASN A 256      16.634  12.030  28.646  0.65  2.14           O 0
+ATOM     38  CD2 LEU A   4      13.379  12.020  30.202  0.00  0.00           C 0
+ATOM   2035  ND2 ASN A 256      16.267  15.314  31.174  0.76  9.84           N 0
+ATOM   1597  OE1 GLN A 200      17.876  14.033  25.743  0.00  0.00           O 0
+ATOM   1596   CD GLN A 200      17.692  14.942  24.929  0.00  0.00           C 0
+ATOM   2033   CG ASN A 256      17.542  15.213  30.817  0.00  0.00           C 0
+ATOM   1598  NE2 GLN A 200      18.576  15.909  24.727  0.64  8.75           N 0
+ATOM   2032   CB ASN A 256      17.845  14.273  29.677  0.00  0.00           C 0
+TER
+END

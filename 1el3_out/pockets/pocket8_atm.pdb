@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0283
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8916
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5129
+HEADER 5  - Mean B-factor of pocket residues  : 0.3662
+HEADER 6  - Hydrophobicity Score              : 52.2857
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 204.5864
+HEADER 10 - Pocket volume (convex hull)       : 8.1922
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4400
+ATOM     23    O ARG A   3      11.133  11.624  35.575  0.69  1.07           O 0
+ATOM   2035  ND2 ASN A 256      16.267  15.314  31.174  0.76  9.84           N 0
+ATOM     13   CB ALA A   1B     13.266  13.165  38.353  0.00  0.00           C 0
+ATOM     12    O ALA A   1B     14.819  10.535  37.732  0.00  0.00           O 0
+ATOM     37  CD1 LEU A   4      11.864  13.612  31.382  0.00  0.00           C 0
+ATOM      7   SD MET A   1A     19.166  11.238  36.516  0.00  0.00           S 0
+ATOM      8   CE MET A   1A     20.516  12.407  36.363  0.00  0.00           C 0
+ATOM      5   CB MET A   1A     18.442  12.678  38.759  0.00  0.00           C 0
+ATOM      9    N ALA A   1B     15.437  12.754  39.408  0.66  3.28           N 0
+ATOM   2034  OD1 ASN A 256      18.443  15.837  31.380  0.63  9.64           O 0
+ATOM   2003    O MET A 253      20.110  11.221  32.821  0.52  2.14           O 0
+ATOM   2033   CG ASN A 256      17.542  15.213  30.817  0.00  0.00           C 0
+ATOM    110  CG2 ILE A  14      14.257   8.830  33.758  0.00  0.00           C 0
+ATOM     35   CB LEU A   4      11.595  11.149  31.730  0.00  0.00           C 0
+ATOM     38  CD2 LEU A   4      13.379  12.020  30.202  0.00  0.00           C 0
+ATOM   2039    O LEU A 257      17.548   8.345  30.558  0.00  0.00           O 0
+ATOM   2029   CA ASN A 256      18.292  12.898  30.164  0.00  0.00           C 0
+ATOM    111  CD1 ILE A  14      16.395   8.375  35.886  0.00  0.00           C 0
+ATOM   2030    C ASN A 256      17.660  11.822  29.293  0.00  0.00           C 0
+TER
+END
